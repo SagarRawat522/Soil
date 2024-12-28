@@ -1,0 +1,8 @@
+PREDICTING EFFICIENT FERTILIZER RECOMMENDATION BASED ON SOIL FEATURES AND ENVIRONMENTAL PARAMETERS USING MACHINE LEARNING MODELS
+Submitted by
+Sagar Rawat (22BCS10832)
+
+
+Course of Geospatial Data Analysis & Spatiotemporal Machine Learning with Python
+
+Chandigarh University
